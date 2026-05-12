@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+    <Appenders>
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{HH:mm:ss} [%-5level] %logger{1} - %m%n"/>
+        </Console>
+    
+   	 	<!-- Salvando em um arquivo o log do programa -->
+   	 	<File name="ArquivoLog" fileName="logs/execucao.log" append="true">
+    			<PatternLayout pattern="%d{yyyy-MM-dd HH-mm-ss} [%-5level] %logger{1} - %m%n"/>
+  	  	</File>
+       
+    </Appenders>
+        
+    <Loggers>
+        <Root level="debug">
+            <AppenderRef ref="Console"/>
+			<!-- Apos usar o console, manda o registro para este aquivo -->            
+            <AppenderRef ref="ArquivoLog"/>
+        </Root>
+    </Loggers>
+</Configuration>
