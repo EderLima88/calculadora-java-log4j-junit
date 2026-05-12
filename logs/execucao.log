@@ -10,3 +10,26 @@
 2026-05-12 09-29-47 [INFO ] SomaLog - Iniciando soma no Eclipse...
 2026-05-12 09-29-47 [DEBUG] SomaLog - Valores: 10 e 5
 2026-05-12 09-29-47 [INFO ] SomaLog - Finalizado.
+2026-05-12 10-09-52 [INFO ] SomaLog - Iniciando soma no Eclipse...
+2026-05-12 10-09-52 [DEBUG] SomaLog - Valores: 10 e 5
+2026-05-12 10-09-52 [INFO ] SomaLog - Finalizado.
+2026-05-12 11-29-25 [INFO ] SomaLog - Iniciando soma no Eclipse...
+2026-05-12 11-29-25 [DEBUG] SomaLog - Metodo somar() foi chamado com os parametros: 10 e 5
+2026-05-12 11-29-25 [INFO ] SomaLog - Calculo realizado: 10 + 5 = 15
+2026-05-12 11-29-25 [INFO ] SomaLog - Finalizado.
+2026-05-12 11-30-07 [INFO ] SomaLog - Iniciando soma no Eclipse...
+2026-05-12 11-30-07 [DEBUG] SomaLog - Metodo somar() foi chamado com os parametros: 10 e 5
+2026-05-12 11-30-07 [INFO ] SomaLog - Calculo realizado: 10 + 5 = 15
+2026-05-12 11-30-07 [INFO ] SomaLog - Finalizado.
+2026-05-12 11-31-56 [DEBUG] SomaLog - Metodo somar() foi chamado com os parametros: 10 e 5
+2026-05-12 11-31-56 [INFO ] SomaLog - Calculo realizado: 10 + 5 = 15
+2026-05-12 11-31-56 [DEBUG] SomaLog - Metodo somar() foi chamado com os parametros: -2 e -3
+2026-05-12 11-31-56 [INFO ] SomaLog - Calculo realizado: -2 + -3 = -5
+2026-05-12 11-37-10 [INFO ] SomaLog - Iniciando soma no Eclipse...
+2026-05-12 11-37-10 [DEBUG] SomaLog - Metodo somar() foi chamado com os parametros: 10 e 5
+2026-05-12 11-37-10 [INFO ] SomaLog - Calculo realizado: 10 + 5 = 15
+2026-05-12 11-37-10 [INFO ] SomaLog - Finalizado.
+2026-05-12 11-37-22 [DEBUG] SomaLog - Metodo somar() foi chamado com os parametros: 10 e 5
+2026-05-12 11-37-22 [INFO ] SomaLog - Calculo realizado: 10 + 5 = 15
+2026-05-12 11-37-22 [DEBUG] SomaLog - Metodo somar() foi chamado com os parametros: -2 e -3
+2026-05-12 11-37-22 [INFO ] SomaLog - Calculo realizado: -2 + -3 = -5
